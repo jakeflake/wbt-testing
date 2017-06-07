@@ -1,1 +1,3 @@
 wbt-testing
+
+works fine
